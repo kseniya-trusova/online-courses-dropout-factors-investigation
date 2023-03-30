@@ -15,6 +15,6 @@ The mathematical hypothesis:
 - null hypothesis: the average tries numbers of solving tasks equal between each other for students who will dropout a course and finish it successfully
 - alternative hypothesis: a null hypothesis is wrong   
 # Research results
-The recording of 6 courses were analyzed. The distributions of average tries numbers to solve a task among students who got a credit and who dropped out, weekly average tries numbers and students number were visualized. As long as the obtained distributions did not match a normal distribution, the bootstrap method was chosen to test the hypothesis.
+The recording of 6 different courses were analyzed. The distributions of average tries numbers to solve a task among students who got a credit and who dropped out, weekly average tries numbers and students number were visualized. As long as the obtained distributions did not match a normal distribution, the bootstrap method was chosen to test the hypothesis.
 
 The main findings are concluded that the average tries number to solve a task is not recommended to use as a behavioral factor for predicting students dropout if different courses are combined. Nevertheless, using the factor for a separate course is able to show informative results.
